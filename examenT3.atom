@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" >
+
+
+    <title>Pagina de marca</title>
+    <link href="https://www.marca.com/"/>
+    <updated>2025-02-05</updated>
+        <author>
+            <name>Andres Rico</name>
+        </author>
+    <id>https://www.marca.com/feed/</id>
+
+    <entry>
+        <updated>2025-05-02</updated>
+        <id>https://www.marca.com/futbol/primera-division.html?intcmp=MENUMIGAs_kw=laliga-ea-sports</id>
+        <link>https://www.marca.com/futbol/sevilla/2025/02/05/lokonga-debemos-hablar-europa-momento.html</link>
+        <summary>Un jugador del sevilla habla sobre la Europa League</summary>
+    </entry>
+
+    <entry>
+        <updated>2025-05-02</updated>
+        <id>https://www.marca.com/futbol/primera-division.html?intcmp=MENUMIGAs_kw=laliga-ea-sports</id>
+        <link>https://www.marca.com/futbol/barcelona/2025/02/05/hansi-flick-habria-mandado-carta-real-madrid-estilo-barca.html</link>
+        <summary>Entrenador del barcelona habla sobre el madrid</summary>
+    </entry>
+
+    <entry>
+        <updated>2025-05-02</updated>
+        <id>https://www.marca.com/futbol/primera-division.html?intcmp=MENUMIGAs_kw=laliga-ea-sports</id>
+        <link>https://www.marca.com/radio/2025/02/05/quique-sanchez-flores-cambio-atletico-pasado-giuliano.html</link>
+        <summary>El equipo del atletic recibe cambios</summary>
+    </entry>
+
+    <entry>
+        <updated>2025-05-02</updated>
+        <id>https://www.marca.com/futbol/primera-division.html?intcmp=MENUMIGAs_kw=laliga-ea-sports</id>
+        <link>https://www.marca.com/futbol/betis/2025/02/05/cucho-hernandez-llega-sevilla-iniciar-etapa-betis.html</link>
+        <summary>Un nuevo jugador del Sevilla</summary>
+    </entry>
+</feed>
