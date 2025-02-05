@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+
+<channel>
+    <author>Andres Rico</author>
+        <link>https://www.marca.com/rss</link>
+    <description> Pagina principal Marca</description>
+
+    <item>
+        <title>Hansi Flick habla sobre el madrid</title>
+        <link>https://www.marca.com/futbol/barcelona/2025/02/05/hansi-flick-habria-mandado-carta-real-madrid-estilo-barca.html</link>
+        <author>M.carmen Torres</author>
+    </item>
+    <item>
+        <title>Lokonga habla sobre Europa</title>
+        <link>https://www.marca.com/futbol/sevilla/2025/02/05/lokonga-debemos-hablar-europa-momento.html</link>
+        <author>R.Guevara</author>
+    </item>
+    <item>
+        <title>El cambio del Atletico</title>
+        <link>https://www.marca.com/radio/2025/02/05/quique-sanchez-flores-cambio-atletico-pasado-giuliano.html</link>
+        <author>Vicente Ortega</author>
+    </item>
+    <item>
+        <title>Cucho llega a Sevilla</title>
+        <link>https://www.marca.com/futbol/betis/2025/02/05/cucho-hernandez-llega-sevilla-iniciar-etapa-betis.html</link>
+        <author>Miguel A.Moran</author>
+    </item>
+
+</channel>
+</rss>
